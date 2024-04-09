@@ -27,8 +27,8 @@ https://docs.google.com/spreadsheets/d/1kYZv_DUDU_GoJMovhokhVHvs7s6jJVxbUFfLuXTb
 ##### E-posta şablonunuzu (email.html) ve dosya eklemenin kimliğini (Code.gs) doldurun
 
 ## Dosyalar
-### 🗃️Code.gs
-### 📧emial.html
+###  🗃️Code.gs
+###  📧emial.html
 
 ## Referanslar
 
