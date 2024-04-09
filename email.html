@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base target="_top">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: center;
+        }
+
+        th {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>Merhabalar,</p>
+    <p>Günlük gece ve gündüz vardiyasına ait veriler aşağıdaki tabloda verilmiştir.</p>
+    <p>Aylık toplanan hurda miktarına <a href="https://docs.google.com/spreadsheets/d/1kYZv_DUDU_GoJMovhokhVHvs7s6jJVxbUFfLuXTbw7o/edit?usp=sharing">buradan</a> ulaşabilirsiniz.</p>
+    <p>-------------------------------------------------------------------------------------------</p>
+    <table>
+        <tr>
+            <th>TARİH</th>
+            <th colspan="2">VERİ1 (Birim)</th>
+            <th colspan="2">VERİ2 (Birim)</th>
+            <th colspan="2">VERİ3 (Birim)</th>
+            <th colspan="2">VERİ4 (Birim)</th>
+            <th colspan="2">NOT</th>
+            <th colspan="2">TESLİM ALAN</th>
+            <th colspan="2">TESLİMATI ONAYLAYAN</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>Gece Vardiyası</th>
+            <th>Gündüz Vardiyası</th>
+            <th>Gece Vardiyası</th>
+            <th>Gündüz Vardiyası</th>
+            <th>Gece Vardiyası</th>
+            <th>Gündüz Vardiyası</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>Teslim Alan Adı Soyadı</th>
+            <th>İmza</th>
+            <th>Teslimatı Onaylayan Ad Soyadı</th>
+            <th>İmza</th>
+        </tr>
+        <tr>
+            <td><?= Tarih ?></td>
+            <td class="gece"><?= Veri1Gece ?></td>
+            <td class="gunduz"><?= Veri1Gunduz ?></td>
+            <td class="gece"><?= Veri2Gece ?></td>
+            <td class="gunduz"><?= Veri2Gunduz ?></td>
+            <td class="gece"><?= Veri3Gece ?></td>
+            <td class="gunduz"><?= Veri3Gunduz ?></td>
+            <td class="gunduz"><?= Veri4 ?></td>
+            <td class="bosluk"></td>
+            <td class="not"><?= Not ?></td>
+            <td class="bosluk"></td>
+            <td class="TeslimAlan"><?= TeslimAlan ?></td>
+            <td class="bosluk"></td>
+            <td class="onayveren"><?= TeslimatiOnayVeren ?></td>
+            <td class="bosluk"></td>
+        </tr>
+    </table>
+    <ul>
+        <li>Tarih: <?= Tarih ?></li>
+        <li>Veri1: <?= Veri1Gece ?></li>
+        <li>Veri2: <?= Veri2Gece ?></li>
+    </ul>
+    <p>Saygılarımla</p>
+    <p>Bu mail tamamıyla otomatik olarak gönderilmiştir.</p>
+</body>
+</html>
