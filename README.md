@@ -2,6 +2,8 @@
 
 Ücretsiz olarak Google Sheets ve Uygulama Betikleri kullanarak toplu e-posta gönderin ve takip edin
 
+https://docs.google.com/spreadsheets/d/1kYZv_DUDU_GoJMovhokhVHvs7s6jJVxbUFfLuXTbw7o/edit#gid=0
+
 ## Yapabilecekleriniz
 #### ✅ Toplu e-postalar gönderin (Gmail hesabınızın giden e-posta sınırına kadar)
 #### ✅ Ek dosyalar ekleyin
