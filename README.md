@@ -18,13 +18,13 @@ https://docs.google.com/spreadsheets/d/1kYZv_DUDU_GoJMovhokhVHvs7s6jJVxbUFfLuXTb
 
 ## Kurulum
 
-Verinin sahibi için bir Google Sheets oluşturun (şu başlıkları ekleyin: e-posta, ad, durum)
-Google Uygulama Betikleri düzenleyicisine gidin (Extensions  > App Script)
-Bu depodaki Code.gs içeriğini aynı dosyaya kopyalayıp yapıştırın
-Bir HTML dosyası (email.html) ekleyin ve betik düzenleyicisine kopyalayıp yapıştırın
-Web Uygulaması olarak dağıtın
-Web uygulamanızın URL'sini content.html dosyasına ekleyin
-E-posta şablonunuzu (email.html) ve dosya eklemenin kimliğini (Code.gs) doldurun
+##### Verinin sahibi için bir Google Sheets oluşturun (şu başlıkları ekleyin: e-posta, ad, durum)
+##### Google Uygulama Betikleri düzenleyicisine gidin (Extensions  > App Script)
+##### Bu depodaki Code.gs içeriğini aynı dosyaya kopyalayıp yapıştırın
+##### Bir HTML dosyası (email.html) ekleyin ve betik düzenleyicisine kopyalayıp yapıştırın
+##### Web Uygulaması olarak dağıtın
+##### Web uygulamanızın URL'sini content.html dosyasına ekleyin
+##### E-posta şablonunuzu (email.html) ve dosya eklemenin kimliğini (Code.gs) doldurun
 
 ## Dosyalar
 Code.gs
