@@ -1,6 +1,6 @@
 # Otomatik-Mail-Program
 
-Ücretsiz olarak Google Sheets ve Uygulama Betikleri kullanarak toplu e-posta gönderin ve takip edin
+Ücretsiz olarak Google Sheets ve Uygulama AppScript kullanarak toplu e-posta gönderin ve takip edin
 
 https://docs.google.com/spreadsheets/d/1kYZv_DUDU_GoJMovhokhVHvs7s6jJVxbUFfLuXTbw7o/edit#gid=0
 
