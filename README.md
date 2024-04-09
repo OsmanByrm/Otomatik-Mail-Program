@@ -3,7 +3,12 @@
 Ücretsiz olarak Google Sheets ve Uygulama Betikleri kullanarak toplu e-posta gönderin ve takip edin
 
 https://docs.google.com/spreadsheets/d/1kYZv_DUDU_GoJMovhokhVHvs7s6jJVxbUFfLuXTbw7o/edit#gid=0
+
 ![image](https://github.com/OsmanByrm/Otomatik-Mail-Program/assets/163193832/7e68e75a-ad45-47bc-8633-e36658eb9135)
+
+⬇️ Aşağıda gözüktüğü gibi kodlarımızı oluşturulaım 
+
+![image](https://github.com/OsmanByrm/Otomatik-Mail-Program/assets/163193832/be6a8a9f-e8a4-4ee8-958c-eb06a1a6ca4a)
 
 ## Yapabilecekleriniz
 #### ✅ Toplu e-postalar gönderin (Gmail hesabınızın giden e-posta sınırına kadar)
