@@ -20,10 +20,12 @@
     </style>
 </head>
 <body>
+    <!-- İleti başlangıcı -->
     <p>Merhabalar,</p>
     <p>Günlük gece ve gündüz vardiyasına ait veriler aşağıdaki tabloda verilmiştir.</p>
     <p>Aylık toplanan hurda miktarına <a href="https://docs.google.com/spreadsheets/d/1kYZv_DUDU_GoJMovhokhVHvs7s6jJVxbUFfLuXTbw7o/edit?usp=sharing">buradan</a> ulaşabilirsiniz.</p>
     <p>-------------------------------------------------------------------------------------------</p>
+    <!-- Tablo başlangıcı -->
     <table>
         <tr>
             <th>TARİH</th>
@@ -52,6 +54,7 @@
             <th>Teslimatı Onaylayan Ad Soyadı</th>
             <th>İmza</th>
         </tr>
+        <!-- Değişkenlerin değerlerini tabloya yerleştir -->
         <tr>
             <td><?= Tarih ?></td>
             <td class="gece"><?= Veri1Gece ?></td>
@@ -70,11 +73,13 @@
             <td class="bosluk"></td>
         </tr>
     </table>
+    <!--İsterseniz madde madde de hazırlayıp gönderebilirsiniz. -->
     <ul>
         <li>Tarih: <?= Tarih ?></li>
         <li>Veri1: <?= Veri1Gece ?></li>
         <li>Veri2: <?= Veri2Gece ?></li>
     </ul>
+    <!-- İmza ve kapanış -->
     <p>Saygılarımla</p>
     <p>Bu mail tamamıyla otomatik olarak gönderilmiştir.</p>
 </body>
