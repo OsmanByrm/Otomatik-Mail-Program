@@ -27,8 +27,9 @@ https://docs.google.com/spreadsheets/d/1kYZv_DUDU_GoJMovhokhVHvs7s6jJVxbUFfLuXTb
 ##### E-posta şablonunuzu (email.html) ve dosya eklemenin kimliğini (Code.gs) doldurun
 
 ## Dosyalar
-Code.gs
-content.html
+### 🗃️Code.gs
+### 📧emial.html
 
 ## Referanslar
+
 Matt Brigidi : https://www.youtube.com/watch?v=Hjn-z3FqiMc
